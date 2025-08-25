@@ -2,6 +2,7 @@
 # Test Test 
 ## Create Project Folder and Environment Setup
 ## Added this project to git hub
+## Adding line to check with vs code git
 
 ```bash
 # Create a new project folder
